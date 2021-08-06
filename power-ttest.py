@@ -14,6 +14,7 @@ from load_css import local_css
 
 st.set_page_config(layout="centered")
 st.title("Power of t.test")
+st.write("Author: Carlos Pérez González (ULL)")
 local_css("styles.css") 
 
 
