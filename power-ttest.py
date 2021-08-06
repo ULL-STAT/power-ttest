@@ -16,6 +16,8 @@ st.set_page_config(layout="centered")
 st.title("Power of t.test")
 local_css("styles.css") 
 
+
+
 col = st.beta_columns(4)
 
 with col[0]:        

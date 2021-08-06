@@ -14,3 +14,7 @@
 .blue {
   background-color: lightblue;
 }
+
+#MainMenu {visibility: hidden;}
+
+footer {visibility: hidden;}
