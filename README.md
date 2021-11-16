@@ -1,2 +1,2 @@
-# power-ttest
-Interactive visualization of t.test's power
+# power-ztest
+Interactive visualization of z.test's power
