@@ -19,7 +19,7 @@ local_css("styles.css")
 
 
 
-col = st.beta_columns(4)
+col = st.columns(4)
 
 with col[0]:        
     tail=st.radio(
